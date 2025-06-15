@@ -1,0 +1,11 @@
+---
+title: "goyahhunt15.github.io"
+---
+
+This is a goyah's website.
+
+To learn more about goyah's websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+1 + 1
+```
